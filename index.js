@@ -5,7 +5,7 @@ let express = require("express")
 
 let app = express()
 
-let port = process.env.port || 5000
+let port = process.env.PORT || 5000
 
 
 
